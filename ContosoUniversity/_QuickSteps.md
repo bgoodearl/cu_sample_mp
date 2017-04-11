@@ -9,3 +9,8 @@ Quick Notes about steps to create projects
 
 4) Added project ContosoUniversity.Data
 5) Copied Context and Initializer from cu-final
+
+6) Added ASP.NET Core MVC web application
+
+	See https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro#the-contoso-university-web-application
+	Created web application with initial modifications and steps just prior to setting up database.

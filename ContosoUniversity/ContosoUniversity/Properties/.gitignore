@@ -1,0 +1,4 @@
+## Specific rules for CodeCamp.EFDAL
+
+# launchSettings.json is not versioned in project
+launch[Ss]ettings.json
