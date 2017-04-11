@@ -1,4 +1,4 @@
-#Contoso University ASP.NET Core MVC sample app
+# Contoso University ASP.NET Core MVC sample app
 
 Contoso University demonstrates how to use Entity Framework Core in an
 ASP.NET Core MVC web application.
@@ -14,7 +14,7 @@ The solution root folder.
 
 ## Build it from scratch
 
-**NOTE: The original tutorials put ContosoUniversity.Models and ContosoUniversity.Data into the web application.
+** NOTE: The original tutorials put ContosoUniversity.Models and ContosoUniversity.Data into the web application.
 
 ## Download it
 
