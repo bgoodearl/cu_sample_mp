@@ -22,3 +22,5 @@ Quick Notes about steps to create projects
 8) Wired up database
 	Added SchoolContextFactory to ContosoUniversity.Data.
 	Ran Package Manager Console commands found in readme.md under ContosoUniversity.Data.
+
+9) Added test project for InMemory tests of SchoolContext.
