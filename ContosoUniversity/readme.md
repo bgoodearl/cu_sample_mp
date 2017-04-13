@@ -3,7 +3,8 @@
 Contoso University demonstrates how to use Entity Framework Core in an
 ASP.NET Core MVC web application.
 
-In this version of the app, ContosoUniversity.Models and ContosoUniversity.Data are separate projects.
+In this version of the app, ContosoUniversity.Models and ContosoUniversity.Data are separate projects, allowing the StudentContext to be tested apart from the
+web app.
 
 ## BEFORE YOU START:
 
