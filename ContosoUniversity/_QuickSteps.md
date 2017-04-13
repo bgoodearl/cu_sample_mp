@@ -15,6 +15,10 @@ Quick Notes about steps to create projects
 	See https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro#the-contoso-university-web-application
 	Created web application with initial modifications and steps just prior to setting up database.
 
-7) Wired up database
+7) Added DataHelper
+	Console project allows default setup for Migrations in data project using different database
+	from that used for local dev testing.
+
+8) Wired up database
 	Added SchoolContextFactory to ContosoUniversity.Data.
 	Ran Package Manager Console commands found in readme.md under ContosoUniversity.Data.

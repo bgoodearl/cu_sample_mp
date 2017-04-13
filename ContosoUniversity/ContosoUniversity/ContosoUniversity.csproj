@@ -27,5 +27,6 @@
     <ProjectReference Include="..\ContosoUniversity.Data\ContosoUniversity.Data.csproj" />
     <ProjectReference Include="..\ContosoUniversity.Models\ContosoUniversity.Models.csproj" />
   </ItemGroup>
+  <ProjectExtensions><VisualStudio><UserProperties bower_1json__JSONSchema="" /></VisualStudio></ProjectExtensions>
 
 </Project>

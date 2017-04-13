@@ -8,8 +8,14 @@ If you get an error opening the Package Manager console after opening the soluti
 Start Visual Studio 2017 without opening a solution, open the Package Manager Console,
 and after you get the PM prompt, then open the solution.
 
-Make sure the solution has ContosoUniversity as the default project, and
+Make sure the solution has ContosoUniversity.DataHelper as the default project, and
 that the Package Manager Console has ContosoUniversity.Data as its "Default project".
+
+Be sure to copy appsettings.json from _SettingsSource\ContosoUniversity.DataHelper
+to ContosoUniversity.DataHelper and correct the connection string as necessary.
+
+In order to do schema updates by SQL scripts (rather than in code), create the database
+ContosoUniversity3Dev in your SQL instance.
 
 Run the following command:
 ```

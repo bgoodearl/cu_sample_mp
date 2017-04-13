@@ -1,0 +1,4 @@
+## Specific rules for CodeCamp.EFDAL
+
+# appsettings.json is not versioned in project
+appsettings*.json
